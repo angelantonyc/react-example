@@ -1,0 +1,11 @@
+.orderitem{
+    margin-left: 100px;
+    margin-top:20px;
+}
+
+.quantity, .title, .price{
+    text-align: justify;
+}
+.title{
+    font-weight: bolder;
+}
