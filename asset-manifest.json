@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-example/static/css/main.90b6850b.chunk.css",
+    "main.js": "/react-example/static/js/main.78456794.chunk.js",
+    "main.js.map": "/react-example/static/js/main.78456794.chunk.js.map",
+    "runtime-main.js": "/react-example/static/js/runtime-main.6800eae8.js",
+    "runtime-main.js.map": "/react-example/static/js/runtime-main.6800eae8.js.map",
+    "static/js/2.a28bb6a6.chunk.js": "/react-example/static/js/2.a28bb6a6.chunk.js",
+    "static/js/2.a28bb6a6.chunk.js.map": "/react-example/static/js/2.a28bb6a6.chunk.js.map",
+    "index.html": "/react-example/index.html",
+    "static/css/main.90b6850b.chunk.css.map": "/react-example/static/css/main.90b6850b.chunk.css.map",
+    "static/js/2.a28bb6a6.chunk.js.LICENSE.txt": "/react-example/static/js/2.a28bb6a6.chunk.js.LICENSE.txt",
+    "static/media/beefburger.6568e0a0.jpg": "/react-example/static/media/beefburger.6568e0a0.jpg",
+    "static/media/fishchips.325dd1d5.jpg": "/react-example/static/media/fishchips.325dd1d5.jpg",
+    "static/media/garlicbread.fcc71295.jpg": "/react-example/static/media/garlicbread.fcc71295.jpg",
+    "static/media/grilledsandwich.6a88d7f9.jpg": "/react-example/static/media/grilledsandwich.6a88d7f9.jpg",
+    "static/media/pizza.19daec50.jpg": "/react-example/static/media/pizza.19daec50.jpg",
+    "static/media/schnitzel.40859e16.jpg": "/react-example/static/media/schnitzel.40859e16.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6800eae8.js",
+    "static/js/2.a28bb6a6.chunk.js",
+    "static/css/main.90b6850b.chunk.css",
+    "static/js/main.78456794.chunk.js"
+  ]
+}
