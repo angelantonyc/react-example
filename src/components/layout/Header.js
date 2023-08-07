@@ -6,7 +6,7 @@ function Header() {
         <header className="container" style={headerStyle}>
             <h1>Hungry Hub</h1>
             <Link className="m-3" style={linkStyle} to="/">Home</Link> |
-            <Link className="m-3" style={linkStyle} to="/about">  About</Link>  |
+            <Link className="m-3" style={linkStyle} to="/about">  About Us</Link>  |
             <Link className="m-3" style={linkStyle} to="/contact">  Contact</Link>
         </header>
     )
